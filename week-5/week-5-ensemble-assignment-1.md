@@ -64,4 +64,3 @@ Boosting의 목적은 오차를 줄이는 것입니다.
 ## Bagging vs. Boosting
 
 ![bagging-vs-boosting](https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1542651255/image_2_pu8tu6.png)
-$$
