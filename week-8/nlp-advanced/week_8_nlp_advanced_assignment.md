@@ -39,6 +39,7 @@
 
 **모델의 메인 figure를 보고 감을 잡아봅시다.**
 
+<img width="1337" alt="gpt_figure" src="https://github.com/ymnseol/tobigs-regular-session-assignments/assets/105059564/9089b3fd-6fc8-4d5f-bc22-547a50e26d56">
 
 
 - Abstract에서 각 task를 위해 모델을 사용한다고 해도 기존 모델의 구조를 최소한으로만 변형할 수 있도록 했다고 했는데, 그 말대로 task에 맞게 input transformation은 다르게 하되 Transformer 구조는 그대로 사용한다.

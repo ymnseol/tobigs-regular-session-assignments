@@ -18,6 +18,7 @@
 
 **모델의 메인 figure를 보고 감을 잡아봅시다.**
 
+<img width="971" alt="vit_figure" src="https://github.com/ymnseol/tobigs-regular-session-assignments/assets/105059564/0ef423cb-ac9e-497b-b638-e51c86220abf">
 
 - 입력
   - 문장을 token 단위로 나누는 것과 마찬가지로, 이미지를 patch 단위로 나누어 모델에 입력으로 줌
